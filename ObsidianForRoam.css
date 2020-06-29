@@ -316,4 +316,12 @@ body {
    	background-color: #7061D1 !important;
   }
   
+   .rm-block-ref:hover{
+    background-color: #161616 !important;
+   	border-color: transparent !important;
+  }
+  
+  .block-highlight-blue{
+    background-color: #172F4C !important;
+  }
 }
